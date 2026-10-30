@@ -18,3 +18,6 @@ from https://www.bilibili.com/video/BV1BP846JE1W/
 * https://github.com/atomic14/diy-esp32-epub-reader
 * https://github.com/abirw/diy-esp32-epub-reader-m5papers3
 * https://github.com/mikaryyn/EPub-M5Stack-Paper-S3
+* https://github.com/MoveCall/crosspoint-onepage
+* https://github.com/MoveCall/onepage-reader
+
