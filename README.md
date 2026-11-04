@@ -20,4 +20,7 @@ from https://www.bilibili.com/video/BV1BP846JE1W/
 * https://github.com/mikaryyn/EPub-M5Stack-Paper-S3
 * https://github.com/MoveCall/crosspoint-onepage
 * https://github.com/MoveCall/onepage-reader
+* https://docs.waveshare.net/ESP32-S3-ePaper-3.97/Firmware-Flashing
+* ESP32-S3_ePaper-3.97-demo.zip
+
 
