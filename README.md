@@ -22,5 +22,7 @@ from https://www.bilibili.com/video/BV1BP846JE1W/
 * https://github.com/MoveCall/onepage-reader
 * https://docs.waveshare.net/ESP32-S3-ePaper-3.97/Firmware-Flashing
 * ESP32-S3_ePaper-3.97-demo.zip
+* https://cursedhardware.github.io/awesome-embedded-display/epd.html
+* https://www.bilibili.com/video/BV1Zu4y1H7oA/
 
 
