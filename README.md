@@ -27,5 +27,8 @@ from https://www.bilibili.com/video/BV1BP846JE1W/
 * https://crossmux.com  
 https://github.com/0x1abin/crossmux  
 https://post.smzdm.com/p/ak8xoprk/  
-
-
+* https://github.com/CloudZao/Metalio-E-INK4    
+无名科技, Metalio E-INK4 Plus 4.7英寸墨水屏阅读器  
+Metalio E-INK4 3.97英寸墨水屏阅读器  
+https://metalio.world  
+https://github.com/CloudZao/Metalio-E-INK4-Plus   
