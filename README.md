@@ -24,5 +24,8 @@ from https://www.bilibili.com/video/BV1BP846JE1W/
 * ESP32-S3_ePaper-3.97-demo.zip
 * https://cursedhardware.github.io/awesome-embedded-display/epd.html
 * https://www.bilibili.com/video/BV1Zu4y1H7oA/
+* https://crossmux.com  
+https://github.com/0x1abin/crossmux  
+https://post.smzdm.com/p/ak8xoprk/  
 
 
