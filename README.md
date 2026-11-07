@@ -31,4 +31,12 @@ https://post.smzdm.com/p/ak8xoprk/
 无名科技, Metalio E-INK4 Plus 4.7英寸墨水屏阅读器  
 Metalio E-INK4 3.97英寸墨水屏阅读器  
 https://metalio.world  
-https://github.com/CloudZao/Metalio-E-INK4-Plus   
+https://github.com/CloudZao/Metalio-E-INK4-Plus
+* https://github.com/Lakphy/eego-a4-template-firmware
+* https://github.com/Seeed-Projects/reterminal-sticky-playground-registry
+* https://crosslink-reader.top
+* https://github.com/Free-Ink/freeink-sdk
+* https://freeink.org/
+* https://crosspointreader.com/
+
+
