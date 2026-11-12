@@ -22,8 +22,9 @@ from https://www.bilibili.com/video/BV1BP846JE1W/
 https://github.com/MoveCall/onepage-reader   
 https://github.com/MoveCall/crosspoint-onepage/tree/16477d0c2f0b8f2839b1340098f3fe2c2c434878    
 * https://docs.waveshare.net/ESP32-S3-ePaper-3.97/Firmware-Flashing  
-(IMP) https://docs.waveshare.net/ESP32-S3-ePaper-3.97/ESP-IDF/#示例-08_ESP32-S3_e-Paper-3.97   
-ESP32-S3_ePaper-3.97-demo.zip  
+(IMP) https://docs.waveshare.net/ESP32-S3-ePaper-3.97/ESP-IDF/#示例-08_ESP32-S3_e-Paper-3.97    
+ESP32-S3_ePaper-3.97-demo.zip   
+(IMP) https://github.com/waveshareteam/ESP32-S3-ePaper-3.97      
 * https://cursedhardware.github.io/awesome-embedded-display/epd.html
 * https://www.bilibili.com/video/BV1Zu4y1H7oA/
 * https://crossmux.com  
