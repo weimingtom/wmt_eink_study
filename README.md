@@ -20,7 +20,7 @@ from https://www.bilibili.com/video/BV1BP846JE1W/
 * (IMP?) https://github.com/atomic14/diy-esp32-epub-reader  
 (IMP?) https://github.com/abirw/diy-esp32-epub-reader-m5papers3  
 
-* (IMP?) https://github.com/mikaryyn/EPub-M5Stack-Paper-S3
+* (IMP?) https://github.com/mikaryyn/EPub-M5Stack-Paper-S3  
 freetype build:  
 https://github.com/turgu1/EPub-InkPlate/issues/2   
 https://github.com/turgu1/EPub-InkPlate#freetype-library-compilation-for-esp32  
