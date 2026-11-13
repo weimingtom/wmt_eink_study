@@ -82,4 +82,4 @@ ESP32墨水屏研究。上次我说编译不了的那个CloudZao/Metalio-E-INK4�
 
 * https://crosspointreader.com/
 
-
+* https://github.com/crosspoint-reader/Murphy/tree/main  
