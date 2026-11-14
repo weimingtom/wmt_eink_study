@@ -37,6 +37,7 @@ mikaryyn/EPub-M5Stack-Paper-S3。方法是
 * (IMP?) https://github.com/MoveCall/crosspoint-onepage     
 https://github.com/MoveCall/onepage-reader   
 https://github.com/MoveCall/crosspoint-onepage/tree/16477d0c2f0b8f2839b1340098f3fe2c2c434878      
+https://oshwhub.com/movecall/project_ucjwpaya  
 
 * https://docs.waveshare.net/ESP32-S3-ePaper-3.97/Firmware-Flashing  
 (IMP) https://docs.waveshare.net/ESP32-S3-ePaper-3.97/ESP-IDF/#示例-08_ESP32-S3_e-Paper-3.97    
