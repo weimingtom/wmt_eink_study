@@ -13,7 +13,10 @@ from https://www.bilibili.com/video/BV1BP846JE1W/
 * https://github.com/lurongshuang/FBReader-Mupdf_library
 
 ## ESP32
-* https://crosspointreader.com/install
+* https://crosspointreader.com/install  
+https://crosspointreader.com
+https://baijiahao.baidu.com/s?id=1861789326490356565&wfr=spider&for=pc  
+百元墨水屏刷开源固件，3天万人刷机，厂商连夜开会！   
 
 * https://freeink.org/
 
@@ -38,6 +41,8 @@ mikaryyn/EPub-M5Stack-Paper-S3。方法是
 https://github.com/MoveCall/onepage-reader   
 https://github.com/MoveCall/crosspoint-onepage/tree/16477d0c2f0b8f2839b1340098f3fe2c2c434878      
 https://oshwhub.com/movecall/project_ucjwpaya  
+https://post.smzdm.com/p/a95g5wpo/   
+什么值得买, CNC中框单件就要317元，整机团购却只卖318：开源阅读器OnePage，这车怎么上  
 
 * https://docs.waveshare.net/ESP32-S3-ePaper-3.97/Firmware-Flashing  
 (IMP) https://docs.waveshare.net/ESP32-S3-ePaper-3.97/ESP-IDF/#示例-08_ESP32-S3_e-Paper-3.97    
