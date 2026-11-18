@@ -95,9 +95,24 @@ https://github.com/CrossPoint-CJK/crosspoint-reader-cjk
 
 * https://github.com/trilwu/crosspet
 
-* https://github.com/Seeed-Projects/sticky-esp-idf-peripherals  
+* https://www.seeedstudio.com/sticky/playground/firmware/   
+https://github.com/Seeed-Projects/sticky-esp-idf-peripherals  
+https://github.com/Seeed-Projects/reterminal-sticky-playground-registry/tree/main/examples  
+https://github.com/weimingtom/reterminal-sticky-playground-registry/tree/main/firmwares  
 https://github.com/uxjulia/CrossInk  
 https://www.seeedstudio.com/sticky/docs/zh/device-guide/esp-basics/  
-https://www.seeedstudio.com/sticky/playground/firmware/  
 https://www.seeedstudio.com/sticky/docs/zh/device-guide/hardware-overview/  
 https://github.com/crosspoint-reader/crosspoint-reader  
+https://crosslink-reader.top  
+https://edcbook.cn/#guide  
+```
+seeedstudio的reTerminal Sticky到手了。这个看上去好像不容易变砖，如果看不到串口可以拔出u口然后重接就能看到串口。
+支持很多固件，对中文较好的是CrossLink（漫画风格或者标签页）和EDC Book（梦大固件，阅读卡片，不支持图片？），
+对中文不太好的是CrossInk，可以联网安装中文字体的是CrossMux，CrossPoint Reader名气最大，
+文件名可能对中文不太好的是CrossNext。
+如果从使用方式上来看，EDC Book和其他的差别较大；
+如果从好用的角度看，应该优先用CrossLink和CrossMux（安装中文字体）和CrossPoint；
+名气来看CrossPoint是最响的。
+当然，我觉得reTerminal Sticky也有缺点，不是所有人都喜欢，
+因为它的硬件按钮较少（3个），很多操作都需要滑动或者长按来模拟
+```
