@@ -74,6 +74,10 @@ ESP32墨水屏研究。上次我说编译不了的那个CloudZao/Metalio-E-INK4�
 需要在idf.py build前执行pip install qoi-conv。
 无名科技的Metalio E-INK 4 3.97寸墨水屏我先试试买来看能不能跑，
 因为不是很贵，属于可以接收的范围 ​​​
+
+我买的三个墨水屏阅读器都到手了，从左到右是阅星曈的X4 Classic、OnePage和无名科技Metalio E-INK4。
+X4C比较好用，充电是磁吸，无触碰，可能没有烧录串口；OnePage的图较深色，无触碰，支持串口，性能较弱；
+无名科技Metalio E-INK4支持触碰，支持串口，但容易卡住（可以等它重启或者用串口重启），图片偶尔会很小
 ```
 
 * https://github.com/Lakphy/eego-a4-template-firmware
